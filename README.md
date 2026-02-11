@@ -1,4 +1,4 @@
-# Birthday & Valentine's Day Website for Bianca 🎂💖
+# Birthday & Valentine's Day Website 🎂💖
 
 A heartfelt, interactive web experience and expressing love through beautiful animations, personal messages, and meaningful moments.
 
