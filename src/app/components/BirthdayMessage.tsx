@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+
 interface BirthdayMessageProps {
   onContinue: () => void;
 }
